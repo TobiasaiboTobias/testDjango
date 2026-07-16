@@ -1,0 +1,40 @@
+body{
+    background-color:crimson;color: black;
+    margin:0;
+    padding:0;
+    width: 100%;
+    color: black;
+}
+
+h1{
+    color: black;
+}
+
+header{
+    margin-bottom: 20px;
+    padding: 30px;
+    background-color: orange;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 30px;
+    background-color: orange;
+}
+
+article{
+    background-color: pink;
+    width: 500px;
+    border: 3px solid white;
+    margin-top: 30px;
+}
+
+a{
+    color: orange;
+}
+
+#blog_container{
+    background-color: pink;
+    margin-left: 40%;
+    width: fit-content;
+}
