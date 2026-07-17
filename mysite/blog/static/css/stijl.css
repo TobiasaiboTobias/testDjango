@@ -31,11 +31,18 @@ article{
 }
 
 a{
-    color: orange;
+    color: black;
 }
 
-#blog_container{
+section{
     background-color: pink;
     margin-left: 40%;
     width: fit-content;
+}
+
+.post{
+    background-color: pink;
+    border: 2px solid white;
+    padding: 20px;
+    margin-bottom: 20px;
 }
